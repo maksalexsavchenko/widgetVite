@@ -1,5 +1,6 @@
 <template>
     <div class="widget">
+        test
         <input v-model="name" type="text" placeholder="Coin">
     </div>
 </template>
