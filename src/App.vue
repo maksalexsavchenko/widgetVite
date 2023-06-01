@@ -1,15 +1,15 @@
 <template>
-  <widget-component/>
+    <div>
+        <h1>Hello, world!</h1>
+    </div>
 </template>
 
 <script>
-import WidgetComponent from "./components/WidgetComponent.vue";
 
 export default {
-    components: {WidgetComponent}
 }
 </script>
 
-<style scoped>
+<style >
 
 </style>
