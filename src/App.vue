@@ -1,15 +1,13 @@
 <template>
-  <router-view/>
+  <widget-component/>
 </template>
 
 <script>
-
-import {defineComponent} from "vue";
 import WidgetComponent from "./components/WidgetComponent.vue";
 
-export default defineComponent({
+export default {
     components: {WidgetComponent}
-})
+}
 </script>
 
 <style scoped>
