@@ -1,5 +1,5 @@
 <template>
-  <widget-component/>
+  <router-view/>
 </template>
 
 <script>
